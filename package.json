@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-    "dependencies": {
+  "dependencies": {
     "@react-three/drei": "^9.117.2",
     "@react-three/fiber": "^8.17.10",
     "lodash": "^4.17.21",
@@ -19,6 +19,7 @@
     "three": "^0.170.0"
   },
   "devDependencies": {
+    "@types/lodash": "^4.17.13",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
