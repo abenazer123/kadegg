@@ -67,7 +67,7 @@ export default function Home() {
                     <div className="flex items-start gap-4">
                       <Coins className="h-6 w-6 text-[#FFF68F]" />
                       <div>
-                        <h3 className="text-[#FFF68F] font-medium mb-1 md:mb-2">Stake to Play</h3>
+                        <h3 className="text-[#FFF68F] font-medium mb-1 md:mb-2">Buy into Games</h3>
                         <p className="text-sm md:text-base text-[#D3D3D3]">
                           Buy into games with any amount - the more you stake, the bigger you start
                         </p>
@@ -81,7 +81,7 @@ export default function Home() {
                       <div>
                         <h3 className="text-[#FFF68F] font-medium mb-1 md:mb-2">Hunt & Absorb</h3>
                         <p className="text-sm md:text-base text-[#D3D3D3]">
-                          Hunt and absorb smaller players to collect their stakes
+                          Hunt and eat smaller players to collect their stakes
                         </p>
                       </div>
                     </div>
